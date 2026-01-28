@@ -1,2 +1,17 @@
 # KDG
-A place for all my school projects related to my education MCT at Karel De Grote university in Antwerp.
+A place for all my school projects related to my education MCT at Karel De Grote university in Antwerp. I started this GitHub to keep track of all the projects we do throughout the year, and what I am learning and creating throughout the years.
+
+## My Story
+Back in high school, in the 5th year of middelbaar (one to last year of secundary school in Belgium) I decided that, even though I passed the year, I did not want to continue studying after secundary school. This however, was pretty much a requirement in this field of study. Engineering sciences was very theoretical and it didn't motivate me enough since I had found my passion in IT a few years prior. So, I switched schools and started Industrial IT in Schoten. When the year was almost over, I started thinking the program was not what I expected and to be honest, and I was attracted by a certain course of adult education: servicedesk. I didn't have to go to school all-day and could focus on working a bit on the side to earn some money and live maybe the best year of my school career.
+
+How did I end up at KDG then?
+
+After 2 years of working as the only 1st line servicedesk engineer at a company with about 500 employees, My manager started asking in what field of IT I'd like to specialize. I thought about it for a long while and dabbled in some networking and cyber security, but didn't really find *my thing*. I really liked hardware and software repairs, but knew that I wouldn't be able to grow a lot in this company with those ambitions. So, I started looking for places where I could learn other things I loved.
+That brought me to Media and Creative Technologies (MCT), the study I am now doing my first year of. I fell in love with making content a long time ago but was bullied and decided to take it down at the age of.. 12? 13 maybe?
+This course relit that fire inside me, to make content and learn about business, 3D design and much, much more. I went to the opening days and gazed at the 3d printer farm and lasercutters they have available in the FabLab. This is also a place where i hang around a lot to help others and work on my own projects! Everyone there is there with a reason and the lecturers and employees keeping this socializing masterpiece open are the best people to have there: supportive, creative and willing to think with you at all times.
+
+## My ambitions
+It's diffucult to say where I will end up and at what time. My thoughts race all the time and I get indulged in new tech and knowledge to the point where I forget time and space. 
+I'd love to have my own community of creative thinkers and product developers one day. I am striving to do this by sharing my passion with everyone I know and occasionally making a YouTube video to share off what I'm doing exactly.
+One day, I'd like to start a company that supports making your own things and engaging people in the tech of today, without it being too complicated or expensive.
+Throughout this course, I've already learnt that I am incredibly fast in picking up programming languages and that I'm a good 3D modeler. I'll put all my course folders here so everyone can see what my stepping stones to reach the goals that I set for myself.
